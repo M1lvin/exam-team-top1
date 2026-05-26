@@ -6,3 +6,5 @@
 - **Имя:** Amina | **Роль:** Developer
 
 - **Имя:** Elman | **Роль:** Developer
+
+- **Имя:** Alisultan | **Роль:** Developer
