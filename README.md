@@ -4,3 +4,5 @@
 - **Имя:** Arslan | **Роль:** Developer
 
 - **Имя:** Amina | **Роль:** Developer
+
+- **Имя:** Elman | **Роль:** Developer
